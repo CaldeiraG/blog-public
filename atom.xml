@@ -6,7 +6,7 @@
   <link href="http://blog.caldeirag.tech/atom.xml" rel="self"/>
   
   <link href="http://blog.caldeirag.tech/"/>
-  <updated>2021-03-24T14:18:41.558Z</updated>
+  <updated>2021-03-31T09:44:16.095Z</updated>
   <id>http://blog.caldeirag.tech/</id>
   
   <author>
@@ -17,27 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>CaldeiraG&#39;s First Post</title>
-    <link href="http://blog.caldeirag.tech/2021/03/24/first-post/"/>
-    <id>http://blog.caldeirag.tech/2021/03/24/first-post/</id>
-    <published>2021-03-24T14:00:00.000Z</published>
-    <updated>2021-03-24T14:18:41.558Z</updated>
+    <title>Introduction</title>
+    <link href="http://blog.caldeirag.tech/2021/03/31/Introduction/"/>
+    <id>http://blog.caldeirag.tech/2021/03/31/Introduction/</id>
+    <published>2021-03-31T08:45:00.000Z</published>
+    <updated>2021-03-31T09:44:16.095Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><p><strong>This is our first post!</strong></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Hello everyone! This is my first blog post in here since I’ve installed <a href="https://hexo.io/">Hexo</a>. It’s a pretty cool framework but more into that later.</p><p>I’m CaldeiraG, I’m 21 years old and lived all my life in Portugal. </p><p>I do full-stack web development for 2 years now but currently expanding my portfolio of languages such as Go and Node.js. I also have some experience with Python, C# and C++.</p><p>I can consider myself as a enthusiast among the tech community, making websites for fun, fiddle around with server hardware and more recently a Raspberry Pi and some VPS’es.</p><p>I want this blog to serve as a journal of what I’m currently working on/interested in, maybe reviews of products I buy and more. I’m excited to start this blog with some cool content.</p><p>If you’re interested to see what I’ve built over the years, you can check out my GitHub <a href="https://github.com/CaldeiraG">here</a> or on the sidebar.</p><p>That’s it! Have a good day all :)</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;This is our first post!&lt;/strong&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h1&gt;&lt;p&gt;Hello everyone! This is my fir</summary>
       
     
     
     
-    <category term="Hexo" scheme="http://blog.caldeirag.tech/categories/Hexo/"/>
-    
-    
-    <category term="test" scheme="http://blog.caldeirag.tech/tags/test/"/>
     
   </entry>
   
